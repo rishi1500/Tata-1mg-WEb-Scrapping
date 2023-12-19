@@ -1,0 +1,1 @@
+This repo is the data analysis project of the company Tata 1MG. It contains all files including the excel files and charts which were generated in order to gain insights of the data scrapped. Data was also ran througha machine learning model to generate predictions.
